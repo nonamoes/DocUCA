@@ -5,9 +5,9 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'UCADocs',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/EloyChavezDev/DocUCA',
 			},
 			sidebar: [
 				{
