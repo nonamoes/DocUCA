@@ -14,17 +14,6 @@ export default defineConfig({
 					label: 'Año 2024',
 					autogenerate: { directory: '2024' },
 				},
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
 			],
 		}),
 	],
