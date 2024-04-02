@@ -12,7 +12,14 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Año 2024',
-					autogenerate: { directory: '2024' },
+					items:[
+						{label: 'Resumen', link: '/2024/Resumen/' },
+						{
+							label: 'Abril',
+							autogenerate: { directory: '2024/Abril' },
+						}
+
+					]
 				},
 			],
 		}),
