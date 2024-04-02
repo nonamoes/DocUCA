@@ -15,7 +15,23 @@ export default defineConfig({
 					items:[
 						{label: 'Resumen', link: '/2024/Resumen/' },
 						{
+							label: 'Enero',
+							collapsed: true,
+							autogenerate: { directory: '2024/Enero' },
+						}
+						{
+							label: 'Febrero',
+							collapsed: true,
+							autogenerate: { directory: '2024/Febrero' },
+						}
+						{
+							label: 'Marzo',
+							collapsed: true,
+							autogenerate: { directory: '2024/Marzo' },
+						}
+						{
 							label: 'Abril',
+							collapsed: true,
 							autogenerate: { directory: '2024/Abril' },
 						}
 
