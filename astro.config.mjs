@@ -17,21 +17,25 @@ export default defineConfig({
 						{
 							label: 'Enero',
 							collapsed: true,
+							badge: {text: 'Delayed work', variant: 'caution'},
 							autogenerate: { directory: '2024/Enero' },
 						},
 						{
 							label: 'Febrero',
 							collapsed: true,
+							badge: {text: 'Delayed work', variant: 'caution'},
 							autogenerate: { directory: '2024/Febrero' },
 						},
 						{
 							label: 'Marzo',
 							collapsed: true,
+							badge: {text: 'WIP', variant: 'caution'},
 							autogenerate: { directory: '2024/Marzo' },
 						},
 						{
 							label: 'Abril',
 							collapsed: true,
+							badge: 'New',
 							autogenerate: { directory: '2024/Abril' },
 						}
 					]
