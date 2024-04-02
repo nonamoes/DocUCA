@@ -4,7 +4,7 @@ description: Documentacion perteneciente al mes de Abril de 2024.
 ---
 ### 🌐 Tester de Cable NOYAFA NF-820 
 
-![Tester de Cable NOYAFA NF-820](https://ucadocs.eloychavez.dev/public/Abril/Tester_NF-8209.jpg "Tester de Cable NOYAFA NF-820")
+![Tester de Cable NOYAFA NF-820](https://ucadocs.eloychavez.dev/Abril/Tester_NF-8209.jpg "Tester de Cable NOYAFA NF-820")
 
 Recientemente, hemos adquirido y comenzado a utilizar el Tester de cable NOYAFA NF-8209 como parte de nuestros esfuerzos para mejorar la eficiencia y la precisión en nuestras operaciones de red. Este dispositivo es una herramienta versátil y confiable que nos permite realizar pruebas exhaustivas en los cables de red, identificar problemas de conectividad y asegurar un rendimiento óptimo en nuestra infraestructura de comunicaciones.
 
