@@ -36,7 +36,7 @@ Al final de la clase, los estudiantes no solo tenían una comprensión sólida d
 
 En la Clase 4, exploramos el concepto de listas dentro del desarrollo de aplicaciones sobre Internet, brindando a los estudiantes una comprensión integral de cómo se utilizan las listas para organizar y presentar información en la web. Durante esta sesión, analizamos la importancia de las listas como una herramienta fundamental para estructurar el contenido de manera lógica y accesible.
 
-Los estudiantes aprendieron sobre los diferentes tipos de listas disponibles en HTML, incluyendo listas ordenadas (<ol>), listas desordenadas (<ul>) y listas de definición (<dl>). Exploramos cómo cada tipo de lista se puede utilizar para presentar información de manera efectiva, desde elementos numerados en secuencia hasta elementos sin orden específico y definiciones de términos y sus descripciones.
+Los estudiantes aprendieron sobre los diferentes tipos de listas disponibles en HTML, incluyendo listas ordenadas (```<ol>```), listas desordenadas (```<ul>```) y listas de definición (```<dl>```). Exploramos cómo cada tipo de lista se puede utilizar para presentar información de manera efectiva, desde elementos numerados en secuencia hasta elementos sin orden específico y definiciones de términos y sus descripciones.
 
 ### Clase 5. GRÁFICOS EN PÁGINAS WEB
 **Competencia: Identificara los principales elementos usados para la Identificación, tales como Gráficos utilizados en el diseño de sitios web.**
@@ -67,6 +67,6 @@ Al final de la clase, los estudiantes no solo tenían una comprensión sólida d
 
 En la Clase 7, nos sumergimos en el uso de tablas como herramienta fundamental para la simplificación y organización de información en el diseño de sitios web. Los estudiantes exploraron cómo las tablas pueden estructurar datos de manera efectiva, facilitando su comprensión y accesibilidad para los usuarios.
 
-Durante esta sesión, analizamos los diferentes tipos de tablas y cómo se pueden utilizar en diversas situaciones, desde la presentación de datos numéricos hasta la organización de información compleja en forma de cuadrícula. Los estudiantes aprendieron sobre la estructura básica de una tabla HTML y cómo utilizar etiquetas como <table>, <tr> y <td> para definir filas, columnas y celdas dentro de una tabla.
+Durante esta sesión, analizamos los diferentes tipos de tablas y cómo se pueden utilizar en diversas situaciones, desde la presentación de datos numéricos hasta la organización de información compleja en forma de cuadrícula. Los estudiantes aprendieron sobre la estructura básica de una tabla HTML y cómo utilizar etiquetas como ```<table>, <tr> y <td>``` para definir filas, columnas y celdas dentro de una tabla.
 
 Al final de la clase, los estudiantes no solo tenían una comprensión sólida de cómo utilizar las tablas para simplificar y organizar información en el diseño de sitios web, sino que también estaban preparados para aplicar este conocimiento en la creación de tablas efectivas y visualmente atractivas en sus propios proyectos web.
