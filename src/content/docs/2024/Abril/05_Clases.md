@@ -9,7 +9,9 @@ En la clase de hoy, exploraremos diversas plantillas y plataformas para la creac
 
 Analizaremos diferentes criterios como la facilidad de uso, la personalización disponible, la compatibilidad con dispositivos móviles, la calidad del diseño y la accesibilidad. Al final de la clase, los estudiantes estarán equipados con el conocimiento necesario para tomar decisiones informadas sobre qué herramienta utilizar para llevar a cabo sus proyectos web informativos.
 
-[Descarga las Diapositivas de la clase](https://ucadocs.eloychavez.dev/Abril/Clase22.pdf){:target="_blank"}.
+[Descarga las Diapositivas de la clase](https://ucadocs.eloychavez.dev/Abril/Clase22.pdf).
+<a href="https://ucadocs.eloychavez.dev/Abril/Clase22.pdf">Descarga las Diapositivas de la clase.</a>
+
 
 ### Entrega de proyecto de diseño Web de propósito general.
 **Competencia: Evaluará los métodos de exposición y trabajo en equipo para presentar su proyecto de investigación a la clase.**
