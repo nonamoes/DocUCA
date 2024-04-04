@@ -11,6 +11,8 @@ Los estudiantes adquirieron habilidades prácticas al crear su primer documento 
 
 Al final de la clase, los estudiantes no solo habían creado su primer documento HTML, sino que también adquirieron una comprensión más profunda de la historia y los fundamentos de la programación web, sentando así una base sólida para su aprendizaje continuo en el campo del desarrollo web.
 
+<a href="https://ucadocs.eloychavez.dev/Enero/Clase1.pdf" target="_blank">Descarga las Diapositivas de la clase 1</a>
+
 ### Clase 2. FORMATOS DEL TEXTO
 **Competencia: Conocer los tipos de formatos usados en las páginas web de la empresa actual.**
 
@@ -19,6 +21,8 @@ En la Clase 2, exploramos los diferentes formatos de texto utilizados en las pá
 Los estudiantes también aprendieron sobre la importancia de la coherencia y la consistencia en el formato del texto para mantener una identidad de marca sólida y una experiencia de usuario uniforme en todo el sitio web de la empresa. Exploramos ejemplos de buenas prácticas en el uso de diferentes formatos de texto en diversos contextos, como encabezados, párrafos, listas y citas.
 
 Al final de la clase, los estudiantes no solo tenían un conocimiento más profundo de los diversos tipos de formatos de texto utilizados en las páginas web empresariales actuales, sino que también estaban equipados con las habilidades necesarias para aplicar estos formatos de manera efectiva en sus propios proyectos web, contribuyendo así a la creación de experiencias de usuario atractivas y funcionales.
+
+<a href="https://ucadocs.eloychavez.dev/Enero/Clase2.pdf" target="_blank">Descarga las Diapositivas de la clase 2</a>
 
 ### Clase 3. HIPERENLACES
 **Competencia: Conocerá el concepto de Hiperenlace dentro del desarrollo de aplicaciones sobre Internet para comprender los sistemas que se utilizan en la actualidad**
@@ -31,12 +35,16 @@ Además, exploramos las mejores prácticas en la creación y el diseño de hiper
 
 Al final de la clase, los estudiantes no solo tenían una comprensión sólida del concepto de hiperenlace y su importancia en el desarrollo de aplicaciones sobre Internet, sino que también estaban preparados para aplicar este conocimiento en la creación de sitios web interactivos y navegables, contribuyendo así a una experiencia de usuario enriquecida y satisfactoria.
 
+<a href="https://ucadocs.eloychavez.dev/Enero/Clases3y4.pdf" target="_blank">Descarga las Diapositivas de la clase 3 y 4</a>
+
 ### Clase 4. LISTAS
 **Competencia: Conocerá el concepto de Listas dentro del desarrollo de aplicaciones sobre Internet para comprender los sistemas que se utilizan en la actualidad**
 
 En la Clase 4, exploramos el concepto de listas dentro del desarrollo de aplicaciones sobre Internet, brindando a los estudiantes una comprensión integral de cómo se utilizan las listas para organizar y presentar información en la web. Durante esta sesión, analizamos la importancia de las listas como una herramienta fundamental para estructurar el contenido de manera lógica y accesible.
 
 Los estudiantes aprendieron sobre los diferentes tipos de listas disponibles en HTML, incluyendo listas ordenadas (```<ol>```), listas desordenadas (```<ul>```) y listas de definición (```<dl>```). Exploramos cómo cada tipo de lista se puede utilizar para presentar información de manera efectiva, desde elementos numerados en secuencia hasta elementos sin orden específico y definiciones de términos y sus descripciones.
+
+<a href="https://ucadocs.eloychavez.dev/Enero/Clases3y4.pdf" target="_blank">Descarga las Diapositivas de la clases 3 y 4</a>
 
 ### Clase 5. GRÁFICOS EN PÁGINAS WEB
 **Competencia: Identificara los principales elementos usados para la Identificación, tales como Gráficos utilizados en el diseño de sitios web.**
@@ -51,6 +59,8 @@ Además, discutimos la importancia del diseño responsivo en la presentación de
 
 Al final de la clase, los estudiantes no solo tenían una comprensión sólida de los principales elementos gráficos utilizados en el diseño de sitios web, sino que también estaban preparados para identificar y seleccionar los gráficos adecuados para mejorar la experiencia del usuario y la efectividad de la comunicación visual en sus propios proyectos web.
 
+<a href="https://ucadocs.eloychavez.dev/Enero/Clases5y6.pdf" target="_blank">Descarga las Diapositivas de la clases 5 y 6</a>
+
 ### Clase 6. COLOR, TAMAÑO Y FUENTES EN TEXTOS
 **Competencia: Identificara los principales elementos de formato de textos en el diseño de sitios web.**
 
@@ -62,6 +72,8 @@ ambién discutimos cómo aplicar de manera efectiva el formato de texto utilizan
 
 Al final de la clase, los estudiantes no solo tenían una comprensión sólida de los principales elementos de formato de textos en el diseño de sitios web, sino que también estaban preparados para aplicar este conocimiento en la creación de experiencias de usuario atractivas y efectivas en sus propios proyectos web.
 
+<a href="https://ucadocs.eloychavez.dev/Enero/Clases5y6.pdf" target="_blank">Descarga las Diapositivas de la clases 5 y 6</a>
+
 ### Clase 7. TABLAS
 **Competencia: Identificara los principales elementos usados para la simplificación de información, tales como Tablas utilizados en el diseño de sitios web**
 
@@ -70,3 +82,5 @@ En la Clase 7, nos sumergimos en el uso de tablas como herramienta fundamental p
 Durante esta sesión, analizamos los diferentes tipos de tablas y cómo se pueden utilizar en diversas situaciones, desde la presentación de datos numéricos hasta la organización de información compleja en forma de cuadrícula. Los estudiantes aprendieron sobre la estructura básica de una tabla HTML y cómo utilizar etiquetas como ```<table>, <tr> y <td>``` para definir filas, columnas y celdas dentro de una tabla.
 
 Al final de la clase, los estudiantes no solo tenían una comprensión sólida de cómo utilizar las tablas para simplificar y organizar información en el diseño de sitios web, sino que también estaban preparados para aplicar este conocimiento en la creación de tablas efectivas y visualmente atractivas en sus propios proyectos web.
+
+<a href="https://ucadocs.eloychavez.dev/Enero/Clases7y8.pdf" target="_blank">Descarga las Diapositivas de la clases 7 y 8</a>
