@@ -17,6 +17,6 @@ La adquisición y el uso de este dispositivo nos permiten realizar diagnósticos
 
 ![Escaner Brother Ads-3100 2caras 40ppm](https://ucadocs.eloychavez.dev/Abril/Escaner_Brother.webp "Escaner Brother Ads-3100 2caras 40ppm")
 
-Nos complace informar que recientemente hemos entregado un Escáner Brother ADS-3100, con capacidad para escanear a doble cara y una velocidad de hasta 40 páginas por minuto, al plantel ubicado en León. Este escáner representa una adición significativa a nuestras herramientas de digitalización y gestión de documentos en el plantel, mejorando considerablemente nuestra capacidad para capturar, almacenar y compartir información de manera eficiente y efectiva.
+Nos complace informar que recientemente hemos entregado un Escáner Brother ADS-3100, con capacidad para escanear a doble cara y una velocidad de hasta 40 páginas por minuto, al plantel ubicado en León y San Luis de La Paz. Este escáner representa una adición significativa a nuestras herramientas de digitalización y gestión de documentos en el plantel, mejorando considerablemente nuestra capacidad para capturar, almacenar y compartir información de manera eficiente y efectiva.
 
 Estamos seguros de que el Escáner Brother ADS-3100 será una herramienta invaluable para el plantel ubicado en León, mejorando nuestros procesos de gestión de documentos y contribuyendo a una mayor eficiencia y efectividad en nuestras operaciones diarias. Estamos comprometidos a aprovechar al máximo esta tecnología y a utilizarla para beneficiar a nuestra comunidad educativa.

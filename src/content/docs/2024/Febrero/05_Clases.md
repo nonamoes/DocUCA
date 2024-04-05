@@ -73,14 +73,32 @@ Al final de la clase, los estudiantes no solo tenían una comprensión sólida d
 ### Clase 14. INCOMPATIBILIDADES.
 **Competencnia: Identificara los elementos de Incompatibilidad de los lenguajes web**
 
+En la Clase 14, exploramos los desafíos y las incompatibilidades que pueden surgir al trabajar con diferentes lenguajes web. Los estudiantes identificaron los elementos que pueden causar conflictos y problemas de rendimiento en el diseño y desarrollo de páginas web.
+
+Durante esta sesión, analizamos las incompatibilidades comunes entre HTML, CSS y JavaScript, incluyendo diferencias en la interpretación de etiquetas, propiedades y funciones en diferentes navegadores web. Los estudiantes aprendieron sobre las herramientas y técnicas disponibles para detectar y solucionar problemas de compatibilidad entre navegadores, como la validación de código, las pruebas cruzadas de navegadores y el uso de prefijos de proveedores para propiedades CSS específicas del navegador.
+
+Además, exploramos cómo las actualizaciones y cambios en los estándares web pueden afectar la compatibilidad entre diferentes versiones de navegadores y dispositivos, y cómo mantenerse al día con las mejores prácticas y recomendaciones de la industria para garantizar una experiencia de usuario consistente y de alta calidad en todas las plataformas.
+
 <a href="https://ucadocs.eloychavez.dev/Febrero/Clases13y14.pdf" target="_blank">Descarga las Diapositivas de la clases 13 y 14</a>
 
 ### Clase 15. MODIFICAR-ESCRIBIR CONTENIDOS EN LAYERS
 **Competencia: la edición de Layers para el Desarrollo Web**
 
+En la Clase 15, nos enfocamos en la habilidad de modificar y escribir contenido en layers como parte del desarrollo web. Los estudiantes exploraron cómo esta competencia es crucial para la creación y personalización de diseños web dinámicos y atractivos.
+
+Durante esta sesión, analizamos las técnicas y herramientas disponibles para editar y escribir contenido en layers. Los estudiantes aprendieron sobre la manipulación de elementos HTML y CSS mediante JavaScript para lograr cambios dinámicos en la presentación de la página web.
+
+Además, exploramos cómo utilizar eventos del navegador, como clics de mouse o interacciones de teclado, para desencadenar acciones que modifiquen los layers en respuesta a las acciones del usuario.
+
 <a href="https://ucadocs.eloychavez.dev/Febrero/Clases15y16.pdf" target="_blank">Descarga las Diapositivas de la clases 15 y 16</a>
 
 ### Clase 16. CSS DINÁMICAS
 **Competencia: Evaluará los Fundamentos de CSS Dinámicas**
+
+En la Clase 16, nos sumergimos en el mundo de las CSS dinámicas, explorando cómo estas pueden mejorar la flexibilidad y la interactividad en el diseño web. Los estudiantes evaluaron los fundamentos de las CSS dinámicas y su aplicación en el desarrollo web moderno.
+
+Durante esta sesión, analizamos cómo las CSS dinámicas permiten cambiar estilos en respuesta a interacciones del usuario o a condiciones específicas, sin necesidad de modificar el HTML o el JavaScript subyacente. Los estudiantes aprendieron sobre las diferentes técnicas para crear CSS dinámicas, como el uso de pseudo-clases, pseudo-elementos, y animaciones CSS.
+
+Discutimos las mejores prácticas en la implementación de CSS dinámicas, incluyendo la optimización del rendimiento, la accesibilidad y la compatibilidad con diferentes navegadores y dispositivos.
 
 <a href="https://ucadocs.eloychavez.dev/Febrero/Clases15y16.pdf" target="_blank">Descarga las Diapositivas de la clases 15 y 16</a>
