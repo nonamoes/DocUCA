@@ -7,7 +7,7 @@ hero:
   image:
     file: ../../assets/houston.webp
   actions:
-    - text: Leer Guia
+    - text: Documentación
       link: /guides/example/
       icon: right-arrow
       variant: primary
@@ -18,19 +18,20 @@ hero:
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+## Acerca de:
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="¿Quiénes lo documentan?" icon="pencil">
+		Eloy Chavez (<a href="https://eloychavez.dev/" target="_blank">EloyChavezDev</a>).
+		Natalia Moreno (<a href="https://www.linkedin.com/in/nonamoes/" target="_blank">Nonamoes</a>).
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="¿Desde qué año está documentado?" icon="add-document">
+		Actualmente, está documentado desde inicios de este 2024, pero trabajaremos para incluir los años anteriores.
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
+	<Card title="¿Cómo puedo documentar mi información así?" icon="setting">
+		Esa información asi como la Documentación de este sitio lo puedes encontrar en <a href="https://github.com/EloyChavezDev/DocUCA" target="_blank">nuestro GitHub</a>.
 	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/?target=_blank).
+	<Card title="Quieres realizar una donación:" icon="open-book">
+		Puedes hacerlo en <a href="https://github.com/sponsors/EloyChavezDev" target="_blank">GitHub Sponsor</a>.
 	</Card>
 </CardGrid>
