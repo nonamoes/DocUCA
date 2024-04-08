@@ -8,6 +8,7 @@ description: Documentacion perteneciente al mes de Abril de 2024.
 |----------|----------|----------|
 | 03/04/24 | Ciencias de la comunicación | Capacitacion Nacional Financiera, uso de centro de computo |
 | 08/04/24 | Derecho | Ejercicio Derechos Humanos, colocacion de sonido, equipo de computo y pantalla |
+| 08/04/24 | Posgrados | Ceremonia de titulación, colocacion de sonido, equipo de computo y pantalla |
 | 09/04/24 | Derecho | Ejercicio Derechos Humanos, colocacion de sonido, equipo de computo y pantalla |
 | 09/04/24 | Gastronomia | Presentacion de Investigaciones, colocacion de sonido, equipo de computo y pantalla |
 | 10/04/24 | Derecho | Ejercicio Juridico Laboral, colocacion de sonido, equipo de computo y pantalla |
