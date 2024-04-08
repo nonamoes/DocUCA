@@ -24,4 +24,4 @@ Durante la entrega, se evaluaron aspectos como la estructura del sitio, la naveg
 #### Algunos sitios creados durante la clase por los alumnos:
 - <a href="https://historias-de-terror.netlify.app/" target="_blank">Iris Almaguer</a>
 - <a href="https://diariodekevin.netlify.app/" target="_blank">Kevin Patiño</a>
-- <a href="https://ucadocs.eloychavez.dev/Abril/Clase22.pdf" target="_blank">Descarga las Diapositivas de la clase 22</a>
+- <a href="https://mitologiadeunjuego.netlify.app/" target="_blank">Marco Yahir</a>
